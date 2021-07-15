@@ -1,0 +1,19 @@
+{
+  "name": "sems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoeyaib/semss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoeyaib/semss/issues"
+  },
+  "homepage": "https://github.com/shoeyaib/semss#readme"
+}
